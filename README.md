@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)](https://Hikigaya69.io)
 <h1 align="center">Hi 👋, I'm Yashas Hegde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikigaya69&label=Profile%20views&color=0e75b6&style=flat" alt="hikigaya69" /> </p>
 
-- 🌱 I’m currently learning **react,Node.js etc**
+- 🌱 I’m currently learning **c#,asp.net etc**
 
-- 💬 Ask me about **react,JavaScript**
+- 💬 Ask me about **c#**
 
 - 📫 How to reach me **yashubugadi@gmail.com**
 
